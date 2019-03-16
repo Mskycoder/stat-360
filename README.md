@@ -1,18 +1,40 @@
 # STAT 360
 
-Visualisation innovatrice et percutante - Impactful and innovative visualization
+*Visualisation innovatrice et percutante - Impactful and innovative visualization*
 
-Try it out here: https://stat-360.herokuapp.com
+💻 Try it out here: https://stat-360.herokuapp.com
 
-Open Source code: https://github.com/Mskycoder/stat-360
+📚 Open Source code: https://github.com/Mskycoder/stat-360
 
-Devpost: https://devpost.com/software/360-stat/
+✏️ Devpost: https://devpost.com/software/360-stat/
 
 ## Development
 
-The rest api password is left unfilled for security reasons, and it needs to be updated for the app to function.
+The REST API password is left unfilled for security reasons, and it needs to be updated for the app to function.
 
 CSV files are used for to improve responsiveness and speed due to the large amount of data handled. To update the data folder, use the REST api to update the corresponding tables.
+
+To get started, clone this repo and install the requirements:
+
+```
+git clone https://github.com/Mskykiller/stat-360.git
+cd stat-360
+virtualenv venv  # Create a virtual env
+source venv/bin/activate  # Activate the venv
+pip install -r requirements.txt  # Install the requirements
+```
+To activate in windows, replace the 4th line with this:
+```
+venv\Scripts\activate 
+```
+
+Then, make sure that you run the notebook to send the requests and download the data. Notes are included inside the `notebooks/Data Exploration.ipynb`.
+
+Finally, run the app:
+
+```
+python app.py
+```
 
 ## Description
 
