@@ -8,6 +8,8 @@
 
 ✏️ Devpost: https://devpost.com/software/360-stat/
 
+![animated demo](https://raw.githubusercontent.com/Mskycoder/stat-360/master/static/stat-360-demo.gif)
+
 ## Development
 
 The REST API password is left unfilled for security reasons, and it needs to be updated for the app to function.
