@@ -1,0 +1,456 @@
+car_desc,car_id,car_year,category,country_code,make,make_id,model,model_desc_id,vehicle_category_id
+"Compacte, pratique et écoénergétique : la Rio 2010 répond à vos besoins de base et vous offre un peu de luxe en supplément. C'est pourtant vrai : la Rio propose une tonne de caractéristiques supplémentaires surprenantes, pour le même prix.
+
+Avec la Rio, vous obtenez une berline à 4 portes maniable et élégante, spacieuse et élégante. De plus, la Rio vous propose des équipements qui n'ont rien d'ordinaire, comme la chaîne audio AM/FM/CD/MP3, de série, les prises audio auxiliaires et USB, compatible avec les iPod®, et la compatibilité avec la téléphonie mains libres Bluetooth®. Enfin, la Rio est propulsée par un moteur performant et agréable de 1,6 litre qui consomme seulement 5,6 L/100 km sur l'autoroute. La Rio 2010, c'est tout ça!",1,2010,car,CA,Kia,1,Rio,5,0
+"The 2010 Rio5 is designed with fun in mind. With its quick, 1.6-litre, 110-horsepower engine, and available 15"" alloy wheels, the Rio5 delivers crisp, responsive performance – the kind that puts a smile on your face every time you get behind the wheel.
+
+A big, practical rear hatch and flat-folding rear seats give you plenty of cargo-carrying space whenever you need it. And if it's comfort and convenience that you want most, Rio5 has what you need, including available air conditioning, heated front seats and remote keyless entry plus standard hands-free Bluetooth® cell phone capability. Fun, comfortable and practical. That's the 2010 Rio5.",4,2010,car,CA,Kia,1,Rio 5,8,0
+"From the moment it hits the street, Borrego commands attention. An uncompromising presence, rugged capabilities, available V6 and V8 powertrains, and exceptional towing power make it an SUV to be reckoned with. That's obvious. What isn't so obvious, until you have the pleasure of getting behind the wheel, is Borrego's well-mannered ride and handling, available luxury-class comforts – including heated leather seating, an electric power tilt and telescopic steering wheel, and push-button starting – and exceptional quality. There are no compromises here.",5,2010,car,CA,Kia,1,Borrego,9,0
+"Compact, practical and fuel-efficient: the 2011 Rio has all the basics covered, and then some. Because Rio is loaded with surprising extras that don't cost extra.
+
+You get a sharp-looking, easy-handling sedan with roomy, four-door comfort and way-beyond-basic features. Things like a standard AM/FM/CD/MP3 audio system with iPod®-friendly auxiliary and USB ports, and standard hands-free Bluetooth® cell phone capability. All this plus fun-to-drive performance from a 1.6-litre engine with a 5.6L/100 km highway fuel-economy rating. That's the 2011 Rio.",11,2011,car,CA,Kia,1,Rio,5,0
+"From the moment it hits the street, Borrego commands attention. An uncompromising presence, rugged capabilities, available V6 and V8 powertrains, and exceptional towing power make it an SUV to be reckoned with. That's obvious. What isn't so obvious, until you have the pleasure of getting behind the wheel, is Borrego's well-mannered ride and handling, available luxury-class comforts – including heated leather seating, an electric power tilt and telescopic steering wheel, and push-button starting – and exceptional quality. There are no compromises here.",12,2011,car,CA,Kia,1,Borrego,9,0
+"The 2011 Rio5 is designed with fun in mind. With its quick, 1.6-litre, 110-horsepower engine, and available 15"" alloy wheels, the Rio5 delivers crisp, responsive performance – the kind that puts a smile on your face every time you get behind the wheel.
+
+A big, practical rear hatch and flat-folding rear seats give you plenty of cargo-carrying space whenever you need it. And if it’s comfort and convenience that you want most, Rio5 has what you need, including available air conditioning, heated front seats and remote keyless entry plus standard hands-free Bluetooth® cell phone capability. Fun, comfortable and practical. That’s the 2011 Rio5.",14,2011,car,CA,Kia,1,Rio 5,8,0
+"The all-new 2011 Kia Sportage is all about you – your style, your attitude, your zest for life and your love of adventure. There’s no one else like you, and nothing else like Sportage. Sportage blends athleticism and elegance in its captivating design, the latest expression of a new Kia design language spoken in bold lines and sophisticated details. This is a compact crossover that stands far above the anonymous crowd; a no-nonsense performer that rises to the challenges of a busy life. Effortlessly.",15,2011,car,CA,Kia,1,Sportage,10,0
+"With the all-new 2011 Sorento, Kia wants to show you a new way to see the world. We didn’t just upgrade a few features and add more equipment, we had something bigger in mind: an all-new vehicle. 
+
+One look at Sorento and you’ll see why we call it beautifully rugged. With a new unibody structure, European-inspired styling, and available seven-passenger seating, everything about the Sorento has changed for the better. Even the manufacturing plant that builds it is new – and in North America.",16,2011,car,CA,Kia,1,Sorento,11,0
+"The 2010 Soul is a fun loving, freewheeling vehicle with an unmistakable look and attitude, inside and out. With seating for five and some of the coolest interior features you’ve ever seen, Soul takes life’s party to street. And it comes loaded with things like heated front seats, power windows and door locks, hands-free Bluetooth® cellphone capability, electronic stability control and all kinds of other surprising features that you don’t have to pay extra for.
+
+Best of all, Soul is designed to be whatever you make it. With over 60 different Soul accessories, you can personalize it any way that suits your soul.",17,2010,car,CA,Kia,1,Soul,12,0
+"The 2010 Forte is changing the face of Kia and setting new benchmarks for compact sedans in Canada and around the world. Forte’s styling is sporty and confident, its performance is crisp and invigorating, and it comes with standard features that no other car in its price range can match. That shouldn’t be surprising from an automaker like Kia. After all, Kia is known around the world for the power to surprise™: that’s our forte. And now you have a Forte you’ll be proud to call your own.
+",18,2010,car,CA,Kia,1,Forte,13,0
+"When we decided to build our first two-door coupe, we didn’t hold anything back. The result is the 2010 Kia Forte Koup. The Forte Koup brings the shape and design cues of the groundbreaking Koup concept to life in Canada’s newest and most exciting compact sport coupe. With a low wedge-like profile and bold styling, it turns heads faster than any law should allow. It’s also infused with the power to surprise, so you’ll find the Forte Koup is packed with performance, comfort and convenience features that you probably thought you’d have to pay extra for. Surprise!
+",19,2010,car,CA,Kia,1,Forte Koup,14,0
+"The 2010 Rondo is big on the inside, with room for up to seven. It’s also small enough to squeeze through traffic and into tight parking spaces without missing a beat. That’s why we call it Canada’s Urban Utility Vehicle. But Rondo goes far beyond utility. If you want V6 power, Rondo offers it without making you pay, big time, at the gas pump. If you want comfort that’s a cut above you’ll find it with available automatic climate control, heated front seats and an optional DVD entertainment system. All big-time features in a city-sized package. That’s the Kia Rondo: it lives big and drives small.
+",20,2010,car,CA,Kia,1,Rondo,15,0
+"There’s a feeling you get when you’ve found a car that’s so right for you. You can see it in the styling, sense it in the performance and truly relax in its comfort. Feel the attraction of the 2010 Magentis. Magentis has the confident look and feel of a family sedan with a performance-oriented edge, complemented by an available 5-speed Steptronic automatic transmission – with a manual-shift mode – and available sport-tuned suspension. It also leads the way in affordable comforts and conveniences that include standard heated front seats, steering wheel-mounted audio and cruise controls, heated power side mirrors and available push-button starting.
+",21,2010,car,CA,Kia,1,Magentis,16,0
+"The all-new 2010 Kia Sportage is all about you – your style, your attitude, your zest for life and your love of adventure. There’s no one else like you, and nothing else like Sportage. Sportage blends athleticism and elegance in its captivating design, the latest expression of a new Kia design language spoken in bold lines and sophisticated details. This is a compact crossover that stands far above the anonymous crowd; a no-nonsense performer that rises to the challenges of a busy life. Effortlessly.",22,2010,car,CA,Kia,1,Sportage,10,0
+"With the all-new 2010 Sorento, Kia wants to show you a new way to see the world. We didn’t just upgrade a few features and add more equipment, we had something bigger in mind: an all-new vehicle. 
+
+One look at Sorento and you’ll see why we call it beautifully rugged. With a new unibody structure, European-inspired styling, and available seven-passenger seating, everything about the Sorento has changed for the better. Even the manufacturing plant that builds it is new – and in North America.",23,2010,car,CA,Kia,1,Sorento,11,0
+"There’s something for everyone in your family to smile about with the 2010 Sedona. There’s plenty of room for the kids and their friends, and space for all the luggage and bags your family vacations are famous for. For performance, there’s Sedona’s standard 244-horsepower V6 engine and 5-speed Steptronic automatic transmission, a combination that’s rated at 8.5L/100 km (33 mpg) on the highway – what a nice surprise! And of course there’s Sedona’s uncompromising and unbeatable safety. In fact, there is no safer minivan.
+
+
+The 2010 Sedona has received a quadruple 5-star NHTSA crash safety rating. The 2009 model was a Top Safety Pick of the U.S. Insurance Institute for Highway Safety (IIHS). IIHS test results for the 2010 Sedona are not yet available.",24,2010,car,CA,Kia,1,Sedona,17,0
+"It's a whole new way to move.
+
+The 2011 redesined Nissan Rogue. Instant seamless power. Intuitive All-Wheel Drive. Smart storage. and a street-savvy 7,0/100 km.
+
+Starting at 23 648$.
+",25,2011,car,CA,Nissan,2,Rogue,18,0
+"Nissan Armada. Live Big.
+A full-size SUV with enough power, room and first-class appointments to make any day of the week feel epic.
+starting at $ 55,898.",26,2011,car,CA,Nissan,2,Armada,19,0
+"2011 ECLIPSE COUPE
+Underneath its sleek, athletic exterior rests a powerful performance machine that awaits a sign. On your marks, get set, go.",27,2011,car,CA,Mitsubishi,3,Eclipse,20,0
+"Imagine a supercar without supercar limitations.
+
+Refined enough for the daily commute. Yet capable in the worst weather and road conditions. Nissan GT-R.
+The first supercar meant to be driven by Anyone, Anytime, Anywhere.",28,2011,car,CA,Nissan,2,GT-R,21,0
+"2010 LANCER
+If the speed of life is measured in revolutions per minutes, the 2010 Mitsubishi Lancer is ready to rev it up. Whatever you expect from a sport sedan, it's time to upgrade. The limit is about to be lifted.",29,2010,car,CA,Mitsubishi,3,Lancer,22,0
+"LUST AT FIRST SIGHT
+When was the last time you were excited by a practical hatchback? If you're looking at the Lancer Sportback GTS, the answer is right now. With its sporty lines and muscular stance, “hatchback” is the last thing that's going to come to mind. But the first is easy. It's “how soon can I get behind the wheel”? And when you do, the standard Active Stability Control ensures you hug every curve.
+
+Like all smart athletes, the GTS has power to spare but knows how to maximize it to its fullest potential. Excellent fuel economy goes hand-in-hand with the available CVT (Continuous Variable Transmission) that continually adjusts its drive ratio for optimal performance. Mitsubishi's 2.4L DOHC 16 valve, 4-cylinder engine with MIVEC (Mitsubishi Innovative Valve-timing Electronic Control) capable of 168 HP and 167 lb.-ft. of torque also helps keep fuel consumption way down even as your adrenaline rush goes way up.
+
+A hot exterior with power to spare – there was a time when that would have been enough. Not anymore. Now you don't have to give up what you want for what you need. Like room. For a start, there's a handy 60/40-split rear seat useful for bigger cargo or gear. Need a little more room? Just lower the unique, adjustable cargo floor for even more extra flexibility. That's a total of 1,492L (52.7 cu. ft.) of available ""need to get this big screen TV home"".",31,2010,car,CA,Mitsubishi,3,Lancer Sportback,23,0
+"Start Your Own Revolution
+Let them eat dirt. The technologically advanced 2010 Lancer Evolution is ready to roll. Feel the unbridled power of the revolutionary 2.0-litre turbocharged and intercooled engine. Packing 291-horses worth of power, no one even comes close to the Lancer Evolution.
+
+Drop the hammer, seamlessly shifting gears with the Twin Clutch Sportronic® Shift Transmission (TC-SST). Switch gears in milliseconds with advanced gear options - choose from Normal, Sport and Super Sport. Corner your chosen circuit with ease and the sophisticated handling of Super All-Wheel Control (S-AWC). So even when you’re flying, it keeps your wheels on the road.
+
+Drop the hammer, seamlessly shifting gears with the Twin Clutch Sportronic® Shift Transmission (TC-SST). Switch gears in milliseconds with advanced gear options - choose from Normal, Sport and Super Sport. Corner your chosen circuit with ease and the sophisticated handling of Super All-Wheel Control (S-AWC). So even when you’re flying, it keeps your wheels on the road.
+
+Race cars use the best parts for every purpose no matter what the brand. Same goes for the Lancer Evolution MR. EIBACH® springs and BILSTEIN® struts give uncompromising performance and handling. This suspension also keeps the ride supple over real-world pavement, with tough forged-aluminum control arms and enough travel for tough roads. The Lancer Evolution MR's racing-inspired Brembo brakes feature 2-piece front rotors with aluminum hats. This reduces un-sprung and weight for better handling and performance without sacrificing braking ability.",32,2010,car,CA,Mitsubishi,3,Lancer Evolution,24,0
+"Practical Indulgence
+
+Who knew practical could be so sexy? There’s no doubt the Galant is a great family car but with its sleek, muscular design your pulse will start racing every time you look at it. Now step inside and enjoy the Galant’s spacious, richly finished interior. 
+
+Next, start the efficient 2.4 4-cylinder engine and take it for a spin. With standard Active Stability Control, you’ll feel every curve knowing you’re always in control. One thing is abundantly clear: this meticulously engineered car can take you to the office and everywhere in between.
+
+Seamlessly shift gears, with the 4-speed Sportronic automatic transmission, while it learns and adapts to your driving style. 
+
+The Galant is versatile enough to play host to your friends and family, yet athletic enough to tackle whatever curve the road might throw at you.
+
+Practical functionality and comfort are the hallmarks of the Galant’s generous 2,860-litre cabin. Relax into the climate-controlled comfort of fabric seating. 
+
+With its exhilarating performance record and remarkably comfortable interior, the Galant is a sound choice without any sacrifice",33,2010,car,CA,Mitsubishi,3,Galant,25,0
+"Driving in Stand Out Style
+
+Nothing stands out on the road quite like the new redesigned 2010 Mitsubishi Outlander. Its distinctive jet fighter grille makes its presence felt wherever it goes, while its athletic stance helps improve surface flow from bumper to fender reducing coefficient of drag. Of course, what's inside also counts. Even before you turn the key, you'll feel the presence of quality. Chrome accents, soft-touch materials on the instrument panel and door trim, and distinctive stitching throughout create a spacious and luxurious surrounding you can't help but appreciate.
+
+Experience Stand Out Performance
+
+The 2010 Outlander gives you the power and stability to go wherever you want. Under the hood of the LS and XLS sits a powerful 3.0L MIVEC engine with improved fuel economy, capable of an impressive 230 HP (10 more HP than previously). Then, of course, there's the superior handling. Thanks to Mitsubishi's S-AWC (Super All-Wheel Control). It's the first in the world to integrate an electronically controlled Active Front Differential with electronically controlled center differential system. This allows for advanced 4WD handling and traction performance, while maintaining good fuel consumption due to its lightweight design. Add cutting-edge innovations like Hill Start Assist and Idle Neutral Logic, and you're behind the wheel of a stand out crossover vehicle that's ready for anything.
+
+Enjoy Stand Out Adventures
+
+It doesn't matter if you're loading up with camping gear, renovation supplies or just the family groceries; with 2,056 litres of cargo room, the choices are endless. The flap-fold tailgate gives you instant access to the space you need while helping make light work of even the heaviest load. Plus, once you get going, we've made your trip as scenic and as entertaining as you want it to be. First, check your 40GB navigation system for the best possible route. Then, crank up the 750-watt Rockford Audio system and take your pick from the 10GB Music Server. Finally, grab the wheel and enjoy the rid",34,2010,car,CA,Mitsubishi,3,Outlander,26,0
+"Being noticed never came so easily.
+
+The C-Class is an authoritative presence that demands attention. Taut lines lend an air of effortless superiority. The aggressive AMG Styling Package with front, side and rear body panelling, also includes front and rear aprons, side skirts, and the self-assurance that comes along with being both powerful and elegant. The distinctive rear section and wide radiator grille establish the C-Class’ dominance on the road whether you are viewing it from the front or behind, and no matter which of the dynamic wheel options you choose, you’ll only add to the authoritative presence and eye-catching allure of this already stunning vehicle.   And with a range of additional options to choose from, including a variety of premium metallic paint colours, the look of your C-Class is tailored to your preference down to the finest detail.
+
+Sculpted for performance and style, the exterior of the C-Class lives up to its unrivalled standard, shaped over the years by legacy of the threepointed star on its front. Bold and yet graceful, form and function collide in perfect harmony to present an automobile that makes a powerful and confident statement to all who lay eyes on it.
+",35,2011,car,CA,Mercedes-Benz,4,Classe C Berline,27,0
+"Expand your Expectation
+
+The 2010 Endeavor continues to have a tall stature that provides a commanding view of the road but this year comes with a new front grille and redesigned rear hatch. Of course, it still has the roomy cabin and generous cargo space that delivers all the comforts of an SUV. The only time you might be caught off guard is when shift it into gear and experience its smooth, sedan-like handling. Reignite your passion with the road.
+
+Commanding Performance
+
+Hit the highway or head out of town, the Endeavor adapts to your adventure. Its sturdy unibody construction, All-Wheel-Drive and standard high-tech safety features-like 4-wheel disc brakes-keep you firmly in control. The 3.8L engine V6 engine, with 1,588kg of towing muscle, gives you the power to go anywhere and everywhere. 
+
+Stylish Comfort
+
+Inside the Endeavor, your passengers enjoy loads of legroom, leather seating surfaces, and all the space they need (2,163-litres to be exact) to pack in their gear. The power sunroof is a nice touch too. There’s no question the rugged Endeavor is reliable. But with 17” alloy wheels, Bluetooth hands-free and the Rockford Acoustic Design 6-CD/MP3 audio system on tap, dependable has never looked or sounded so good.",36,2010,car,CA,Mitsubishi,3,Endeavor,28,0
+"THE ALL-NEW MITSUBISHI RVR
+
+Full Command Surrounds You at a Glance 
+
+Colour Multi-information Display 
+Attractively designed colour multi-information display provides a useful readout of vehicle information, fuel consumption, trip computer and outside temperature. With a large display makes it easy for drivers to stay informed.
+
+9-speaker Rockford Fosgate® Premium Sound System
+This system features high-quality sound and bass response with a powerful punch. The speakers are fitted precisely into the door panels, turning them into frequency enhancing speaker cabinets. In addition, volume is automatically adjusted to suit the vehicle’s speed.
+
+Connectivity
+The system connects external devices with the vehicle’s systems. Devices connected to the USB port or via Bluetooth, such as mobile phones or MP3 players, may be controlled via the on-board switch or by voice command. The USB and auxiliary audio jack allow you to connect your iPod or MP3 player and enjoy your full music library in premium quality. Link your Bluetooth®-compatible mobile phone, and the voice-activated dialer lets you make calls while holding the wheel.
+
+Your Natural Environment
+
+Panoramic Glass Roof with Interior LED Illumination
+The panoramic glass roof adds a new dimension to the drive, allowing you and your passengers to enjoy the view from every direction. Retracting the sunshade reveals a full-size glass roof panel extending over the front and rear seats. At night, the roof can be attractively illuminated with LED lamps.
+
+Ready for Anything
+
+Active Stability and TractionControl with Hill Start Assist
+ASC uses onboard sensors to analyze the vehicle’s motion and identify lateral wheel slippage. By governing engine output and controlling braking to the appropriate wheels, ASC helps maintain stability and traction control. When wheel spin is detected, engine output is governed and braking force is applied to the spinning wheels to prevent driving torque loss. Hill Start Assist prevents the vehicle from rolling backward by automatically appl",37,2011,car,CA,Mitsubishi,3,RVR,29,0
+"Mercedes interpreted, and defined – the GLK.
+
+The GLK 350 4MATIC is, in the truest sense of the word, a completely original form of Mercedes. In it, two strong personalities merge to
+create a vehicle concept as distinctive as it is innovative. And yet the GLK remains true to its roots. 
+
+Even though this unmistakable off-roader interprets the Mercedes idea in the most independent fashion, the GLK embodies, above all, high standards of agility, safety and comfort, as well
+as the courage to explore new territory – even before it hits the road.",38,2011,car,CA,Mercedes-Benz,4,Classe GLK,30,0
+"The shape of things to come.
+
+There's a new cube in town, and asymmetry is where it's at. From a unique wraparound rear window, to the photo frame rounded side windows, there's a whole new way to smile at the world.",39,2010,car,CA,Nissan,2,Cube,31,0
+"It's all about the numbers. 
+
+And these are impressive. Stay in the green with only 5.8 L/100 km (49 mpg) and up to 862 kilometres between fill-ups. And with class-leading power (122 hp) and torque (127 lb-ft) Versa offers both bold performance and exceptional fuel economy.",40,2010,car,CA,Nissan,2,Versa,33,0
+"Summing up Mercedes-Benz in one letter.
+ 
+For over 60 years, the letter E has been synonymous with comfort, safety and elegance. It is a tradition that the 2011 E-Class is proud to continue.  The driving experience is as sublime as always with a wide range of exciting engines complemented by our intelligent transmission and suspension systems.  The roots of the E-Class can be traced back as far as the early 20th century, when it set the lead for others to follow, both technologically and economically.  
+
+Its timeless design still sends Mercedes-Benz enthusiasts into raptures to this day.  All the best aspects of the previous eight generations of the E-Class are combined in both the E-Class Sedan and E-Class Wagon.  The high levels of comfort and safety are the result of many decades of development work at Mercedes-Benz. Yet the end result is something utterly unique: the E-Class.",41,2011,car,CA,Mercedes-Benz,4,Classe E Berline,32,0
+"Worry-free driving.
+
+Sentra wears a metal timing chain that doesn't require scheduled replacements like rubber timing belts do. And its iridium-tipped spark plugs last 105,000 miles - a lot longer than traditional ones.",42,2010,car,CA,Nissan,2,Sentra,34,0
+"Durability tested.
+Over 5 000 quality and performance tests. One durable car. The Nissan Altima. Made to drive.
+Built to last.
+",43,2010,car,CA,Nissan,2,Altima,35,0
+"Swift. Smooth. Inspiring. Exceptional.
+Exhilaration comes standard with the Maxima.
+The legendary 3.5 litre V6 rapidly unleashes its 290 horsepower with a press of the accelerator.
+Starting at $ 39 450",44,2010,car,CA,Nissan,2,Maxima,36,0
+"So well crafted, there's nothing else like it.
+
+Always stylish, now with even more to amaze. From a roof made of glass, to real aluminum details and double-stitched leather, it's all been taken care of.",45,2010,car,CA,Nissan,2,Murano,37,0
+"Keep it core.
+
+261HP V6
+
+Full-lenth Fully Boxed
+Frame for strenght
+
+Serious Off Road
+Capabilities
+
+Iconic Roof Rack
+
+Innovative Utili-track",46,2010,car,CA,Nissan,2,XTERRA,38,0
+"BUILT FOR THE LONG HAUL.
+Frontier Crew Cab Long Bed. With expansive interior room for five and a bed over 6 feet long, our largest Frontier makes sure that wherever you go and whatever you do, you'll never come up short.
+Starting at $ 31, 848",48,2010,car,CA,Nissan,2,Frontier,40,0
+"The sporting meets the sublime. 
+A low seating position and a sense of the sublime are waiting for you aboard the 2011 SL-Class.  Your eyes dance along the roadster’s elongated nose, whose power domes hint at the powerful engine that lies within. The power plant responds smoothly as you gently press the accelerator and the car eats up kilometre after kilometre of road.  But it goes way beyond performance. Design elements, like the impressive side gills, add visual excitement as well. Exclusive paint finishes, attractive wheels and performance tires add to this effect, as does the AMG Styling Package, which is standard on all models. Its sharply contoured front and rear aprons and side sills add final touches that are to die for.  When it comes to a total driving experience, the SL-Class is the complete package.",49,2011,car,CA,Mercedes-Benz,4,SL,41,0
+"The B-Class.
+
+For a lifestyle that’s always in 5th gear. What do you look for in a car? Versatility? Safety? Performance? 
+
+The B-Class saves you from having to choose. It combines the advantages of many different vehicles to deliver a model that’s both practical and luxurious – catering to your active lifestyle. 
+ 
+With a strikingly attractive interior and exterior and an array of enhanced standard features, the sporty B-Class provides exceptional ride comfort, sophisticated safety systems, a generous amount of space, and plenty of performance. All of this is remarkably captured in an eye-catching 4.27-metre long body.",50,2011,car,CA,Mercedes-Benz,4,Classe B,42,0
+"Nissan Titan. Handle it with the Titan of trucks.
+
+A fully-boxed ladder frame. 5.6-litre V8 pumping out 317 HP and 385 lb-ft of torque. A revolutionary bed featuring new longer lengths.
+Starting at $ 33,448",51,2010,car,CA,Nissan,2,Titan,43,0
+"""An arrow to fire down the highway.
+Mercedes-Benz and the classic roadster have been irrevocably linked for a century. 
+
+So who better to refine this much-heralded and greatly loved class of motor car? We think you’ll agree that the SLK keeps the spirit and passion of the roadster alive while combining it with a sense of refinement that’s like no other.
+
+One glance reveals the bold, spirited styling. The distinctive nose and radiator grille emanate controlled aggression, and you’ll immediately notice the sport alloy wheels and exhaust tailpipes. 
+
+Its air-piercing, arrow-shaped body features exterior mirrors with integrated, arrow-shaped indicator lamps.  There’s divinity in the details as well – like in the darkened taillights and metallic paint choices.  
+
+And finally, with the SLK 350’s attention grabbing AMG Styling Package,1 it’s clear that the SLK-Class has taken poise to a whole new pinnacle.
+
+New for the 2011 SLK 300 and SLK 350 is the Avantgarde Edition, offering more value than ever before. Loaded with features previously only available as part of option packages, the Avantgarde Edition enhances an already exhilarating experience. It’s yet more proof that the SLK-Class is as practical as it is sporty.""
+",52,2011,car,CA,Mercedes-Benz,4,SLK,44,0
+"Every 370Z™ delivers pure performance: 3.7-litre DOHC 24-valve V6 aluminum-alloy engine, 6-speed close-ratio manual transmission, available SynchroRev Match™, Traction Control System, Vehicle Dynamic Control, 18"" x 8.0"" (front)/18"" x 9.0"" (rear) 5-spoke aluminum-alloy wheels, are a sample of all standard feathure included with your 370Z.  
+
+The Roadster also includes an electronically moving soft convertible top, rear wind deflector, and an electronically moving storage cover.
+",53,2010,car,CA,Nissan,2,370Z,45,0
+"Beautiful engineering. Shaped by expressive craftmanship.
+Discover the luxury of the human touch.",54,2011,car,CA,INFINITI,5,M,46,0
+Command an exquisite environment of immense possibility.,55,2011,car,CA,INFINITI,5,QX,47,0
+"Crafted by perfection.
+
+History has a way of repeating itself. The CLS-Class redefines what a coupe can be, without losing sight of what a Mercedes-Benz must be: passionate, innovative and athletically gifted. The iconic four-door coupe boasts design refinements that make its sleek, curvaceous steel skin even more arresting. 
+
+Inside, the finest leathers, hand-fitted over ergonomically formed front seats, and an intuitive COMAND APS system assure an intimate connection between driver and vehicle. The interior comfort of the CLS-Class is matched only by its tremendous power. The victorious Mercedes Silver Arrows were descended from the Daimler-powered car that won the world's first auto race.  The CLS-Class shares this bloodline, along with the heritage of some of the world’s most treasured coupes.
+
+For 2011, we’re proud to present the CLS-Class Avantgarde Edition. Offering more value than ever before, the Avantgarde Edition enhances an already exhilarating experience with a collection of added standard features. It’s yet more proof that the CLS-Class is as sensible as it is seductive.",57,2011,car,CA,Mercedes-Benz,4,CLS Berline,49,0
+To fuse the powerful with the artful.,58,2010,car,CA,INFINITI,5,G37,48,0
+"When form follows emotion, luxary becomes a vibrant expression of your personality. Styles becomes the personal extension of your feelings.",59,2010,car,CA,INFINITI,5,EX35,50,0
+"Increase your enjoyment. Multiply it by seven.
+
+The 2011 R-Class accommodates up to seven passengers in an exceedingly spacious interior – one in which new standards of luxury, safety, and comfort are set. Inspired by your desires (not to mention your needs), the R-Class defies the rigid definition of its category. 
+
+Even at first glance, it’s clear that this is more than just a roomy Mercedes-Benz. Sleek good looks aside, every detail of the newly redesigned exterior styling of the R-Class’ 5.2-metre body bespeaks the R-Class’ sporty handling capabilities.",60,2011,car,CA,Mercedes-Benz,4,Classe R,51,0
+"A defining luxury crossover. Embodied by craft, shaped by character, felt by the driver.",61,2010,car,CA,INFINITI,5,FX35,52,0
+"A defining luxury crossover. Embodied by craft, shaped by character, felt by the driver.",62,2010,car,CA,INFINITI,5,FX50,53,0
+"We dream in black and white checkered flags.
+
+Right from the start, the Mercedes-Benz brand has stood for sporting success as well as comfort and luxury. On the road, and on the racetrack, cars bearing the famous three-pointed star have put their performance to the test time and time again. 
+
+In 1900 we delivered the first ever vehicle to bear the name “Mercedes”. It was the first modern motorcar, boasted 35 hp and was, in fact, a racecar. In 1952 the 300 SL, the legendary gullwing model, first saw the light of day – and the checkered flags – at the 24 Hours of Le Mans, the Bern Grand Prix and the Carrera Panamericana.
+
+In 1967 two former Mercedes engineers founded AMG with a simple goal – to design and produce the world’s best racing engines. 
+
+In 1971, just four years after launching their dream, the legendary “Red Sow”, a bright-red 300 SEL 6.8 AMG, sped over the finish line, and into the history books, as the champion of its class at the 24 Hours of Spa. Countless victories in many racing series followed – establishing AMG as a force in the racing world.
+
+Now, the engineers at Mercedes-AMG and Mercedes-Benz have joined to develop a sports car for modern times. They chase the dream with the same passion as their predecessors but use technology of the future. 
+
+The SLS AMG pushes the limits of design and engineering. Mission accomplished. A new legend has been born.
+",63,2011,car,CA,Mercedes-Benz,4,SLS AMG,54,0
+"Tough, Rugged, and Innovative.
+
+The 2010 Nissan Pathfinder. Starting at 37 948$",64,2010,car,CA,Nissan,2,Pathfinder,39,0
+"IT'S A WHOLE NEW WAY TO MOVE.
+
+There are no excuse, as long as you're outdoors.
+Starting at 33 998$",65,2011,car,CA,Nissan,2,XTERRA,38,0
+"Tough. Rugged. And innovative.
+The 2011 Nissan Pathfinder.
+Starting at 37 948 $",66,2011,car,CA,Nissan,2,Pathfinder,39,0
+Nissan Titan. handle it with the Titan of trucks.,67,2011,car,CA,Nissan,2,Titan king cab,716,0
+"Hot. From every angle.
+
+Planning on taking one out for a test drive? Take it for a spin now, and see what every jealous by-stander is going to see, right before they head to their closest Mazda dealer.",68,2011,car,CA,Mazda,6,2,55,0
+"You’ve just entered all-new MAZDA3 territory. Land of the goosebump and white knuckle. Home of the curve,
+the rise and the twist. Where drivers who refuse to compromise joy in the name of practicality dig in
+their heels and stand their ground. We invite you to join them. To plant your flag and pledge your
+adrenaline to all that MAZDA3 stands for. To embrace the spirit of a fun-to-drive new sport
+compact with features you never expected. And exercise your right to an exhilarating
+ride that puts it all within your reach. All new. MAZDA3. Zoom-Zoom. Forever.",69,2010,car,CA,Mazda,6,3,56,0
+"You’ve just entered all-new MAZDA3 territory. Land of the goosebump and white knuckle. Home of the curve,
+the rise and the twist. Where drivers who refuse to compromise joy in the name of practicality dig in
+their heels and stand their ground. We invite you to join them. To plant your flag and pledge your
+adrenaline to all that MAZDA3 stands for. To embrace the spirit of a fun-to-drive new sport
+compact with features you never expected. And exercise your right to an exhilarating
+ride that puts it all within your reach. All new. MAZDA3. Zoom-Zoom. Forever.",70,2010,car,CA,Mazda,6,3 Sport,57,0
+"Substitute your energy drinks with jolts of adrenaline inside the all-new 2010 MAZDASPEED3. Turn your mind-numbing commute into a white-knuckle joyride with the direct-injected, 2.3 L MZR turbocharged power plant. It pumps out 263-hp and a whopping 280 lb. ft. of torque. 
+
+And it all starts at the tip of your fingers with the push-button start system. Inside the cabin, you’ll be greeted with dual-zone
+climate controls, full-colour navigation, 10-speaker Bose Surround Sound system, and bluetooth capabilities. All-new 2010 MAZDASPEED3. Zoom-Zoom. Forever.",71,2010,car,CA,Mazda,6,SPEED3,58,0
+"FIRST THINGS FIRST
+ 
+Being the first of its kind, second looks come with the territory in a MAZDA5. This Multi-Activity Vehicle is truly a
+fresh new breed. A savvy solution to the unique needs of active, multi-tasking adults and young families. Especially
+those who firmly believe that practicality and versatility are best served up with a huge helping of fun on the side.
+To that end, MAZDA5 is accommodating, yet agile. Safety-minded, yet stylish. Fuel-efficient, yet fun to drive. In
+fact, everything about MAZDA5 is purposefully engineered to be a radically rewarding driving experience. From
+its spacious, six-passenger interior and versatile, fold-flat cargo area to its advanced 2.3 L, DOHC powerplant and
+sophisticated four-wheel independent suspension, MAZDA5 is as insightful as it is original. Zoom-Zoom. Forever.
+",72,2010,car,CA,Mazda,6,5,59,0
+"Stop. Take a listen. You hear it everywhere. The double beat. The one-two cadence that propels us all from deep within. Thump-thump. Goes the heart. The boxer throws the powerful one-two; boxing’s most feared combination. Two quick claps of the hands and dancers prepare for perfection. Snap your fingers two times
+and watch as everyone around gets ready to move. Why do rock legends tap the microphone twice before melting your face? What makes a thoroughbred’s
+muscles respond to two clicks from a jockey’s mouth? This is no mere coincidence. The double beat lives on a deeper level. An emotional level. It’s a universal tribal-like connection. It’s everywhere. And we’ve followed it for over 40 years. Always building on it. It’s what drove us to make the MX-5 Miata, the best-selling
+roadster of all time. The MAZDASPEED 3, one of the fastest front-wheel-drive cars on the planet. And the CX-9, 2008 North American Truck of the Year. It’s what stirs our soul. And what has led us to its most refined and re-imagined form yet. The 2010 MAZDA 6. We’ll never stop listening.
+
+Zoom-Zoom forever!",73,2010,car,CA,Mazda,6,6,60,0
+"Feel your pulse jump? Let’s build on that.
+
+Simply looking at the beautifully sculpted, five-passenger Mazda CX-7 tells you it goes way beyond typical crossover engineering. With its sports-carinspired driving dynamics, crisp handling and breathtaking design, suddenly the boring world of versatility and practicality takes on a whole new flavour. CX-7 offers a choice of two advanced engines: A high-output, 244-hp, turbocharged 2.3 L. And a responsive, fuel-friendly, new 2.5 L DOHC design.  Standard features include audio and cruise controls. Power windows, mirrors and door locks.   Air conditioning. And it handles all your cargo needs with no styling compromises. Plus, it’s no surprise that CX-7 earned a five-star rating in frontal and side-impact crash tests.  It comes with a full complement of air bags and air curtains, Dynamic Stability Control (DSC) and Traction Control System (TCS). Whether you’re shifting through hairpins, transporting gear or doing both at once, CX-7 brings exhilaration to the entire crossover experience. What could be more practical than that?",74,2010,car,CA,Mazda,6,CX-7,61,0
+"""The new generation smart fortwo.
+Open your eyes to something new: the new generation smart fortwo. A whole host of fresh colours - including the first ever matte finish, a third colour variant for the tridion safety cell and two new soft top colours for the cabriolet give you even greater scope for putting together your very own smart fortwo. The new exterior appearance package - with aprons and side skirts in the bodypanel colour - lends the new generation a colourful new look that exudes even higher quality. The striking LED daytime driving lights and four new alloy wheel designs round off the profile of the new smart fortwo. Needless to say, there's a lot to discover on the inside as well.""
+",75,2010,car,CA,smart,7,fortwo coupé,62,0
+"LET THE SPEED LIMIT BE YOUR ONLY LIMIT
+
+The sweeping aerodynamic form of the Mazda CX-9 separates it from the boxy crossover status quo. Clearly no other seven-passenger crossover on the planet envelops passenger and cargo quite so elegantly. But that’s hardly the whole story. Beneath its sculpted skin, a remarkably engineered drivetrain awaits your command. With a 3.7 L DOHC V6 engine that boasts 24 valves, 273-hp and a robust 270 lb. ft. of torque. All while delivering an impressive 13.4 L/100 km city and 9.1 L/100 km highway and a 5-star safety rating. Plus it’s ingeniously wired to anticipate your family’s every need and want with an array of available audio and entertainment system options that makes CX-9 even more engaging. Like Bluetooth® hands-free connectivity and available navigation system. In short, CX-9 doesn’t look, feel or drive like anything else. It serves up a compelling, fun-to-drive balance of agility, stability and comfort.  The confidence-inspiring result is a smooth, controlled ride with the kind of fun-to-drive performance you expect from Mazda. Zoom-Zoom forever.",76,2010,car,CA,Mazda,6,CX-9,63,0
+"""Now when the sun smiles down on you, you can smile back. The fully automatic tritop fabric soft top with heated glass rear window offers a variety of options to suit all conditions - from the folding soft top that can be opened to any position to the fully open top for a full-blown cabriolet feeling - all at the touch of a button. You can also go the whole nine yards and remove the roof bars, which can be neatly stowed away in a special compartment in the tailgate.
+The folding soft top in a robust black polyacrylic fabric can even be opened and closed as you drive along. Alternatively, you can open it before you set off, of course - simply by using the remote control in the 4-button key. The rear top can be folded up to facilitate loading of the luggage compartment.
+The new scratch-resistant and heated rear window in safety glass also provides added comfort and safety. Whatever the weather.
+""
+",77,2010,car,CA,smart,7,fortwo cabriolet,64,0
+"KEEPING IS LEADING POSITION
+
+The Mazda MX-5 has seen a lot of “me too” sports cars come and go since its historic kick-off in 1989.  But for over two decades, MX-5 has stood steady as the hands-down favourite of enthusiasts who demand nothing shy of total driving truth. 
+
+The re-sculpted exterior includes a newly designed grill, side sills and expressively bold headlights and taillights. And the refinements don’t stop there.  Performance-wise, the new MX-5 is definitely engineered to get all the right emotions popping in your head. Starting with its 167-hp, 2.0 L engine with VVT. A freshly tweaked track-tuned suspension. And available Power Retractable Hardtop (PRHT) that lowers in merely 12 seconds.  The one thing that hasn’t changed is our commitment to its sports car authenticity. MX-5 is, and will remain, the real deal. An eye-catching driver’s machine that has inspired three generations of fast-forward leaps in automotive engineering. Because if it were anything less, we wouldn’t...we couldn’t...call it what we know it truly is. A sports car. 
+
+Zoom-Zoom forever.",78,2010,car,CA,Mazda,6,MX-5,65,0
+"As the world’s first and only rotary-powered four-door sports car, Mazda RX-8 stands
+squarely apart from the rest of the category. 
+
+Its remarkably responsive performance is due to sports car engineering without equal.
+Starting with a potent 232-hp RENESIS rotary engine that redlines at a stratospheric 9,000 rpm. And a sport-tuned suspension
+with Bilstein® shocks. 
+
+Plus its unique freestyle doors allow rear-seat passengers to
+enter and exit with exceptional ease. From its visionary rotary powerplant to its inspired interior, the RX-8 continues to be driven by imagination, fueled by innovation and dedicated to an exhilarating, single-minded engineering ideal. 
+
+Zoom-Zoom. Forever.",79,2010,car,CA,Mazda,6,RX-8,66,0
+"The flexible, versatile Mazda Tribute is designed to handle whatever your active life throws
+its way. With its 2.5 L, 4 cylinder you’ll enjoy that rare combination of power and fuel
+efficiency. Or choose the 240-hp, 3.0 L V6 and do some serious hauling in every sense of the
+word. In fact, with the optional towing package, it’ll pull up to 1,588 kg (3,500 lbs.) without
+breaking a sweat. The 2010 Mazda Tribute. An all-purpose, all-terrain, no-compromise SUV.",80,2010,car,CA,Mazda,6,Tribute,67,0
+"FAR MORE THAN JUST RUGGED GOOD LOOKS.
+
+Now more than ever, you want a truck that pulls its weight. A rugged, dependable truck that knows how to squeeze every kilometre out of a litre of gas. And the more standard features, the better. Enter the 2010 B-Series. 
+
+Whichever B-Series you choose comes equipped with standard features that include a sporty five-speed manual transmission, power rack-and-pinion steering and power front disc brakes with a four-wheel Anti-lock Brake System (ABS). And should you desire a notch more comfort and style, the B4000’s available SE Plus Package adds sport bucket seats, power windows, mirrors and door locks, leather-wrapped tilt-adjustable steering wheel, cruise controls, remote keyless entry and SIRIUS Satellite Radio. It’s like having the comforts of home. In a home that can handle a 608 kg payload (B2300 MT Cab Plus only).",81,2010,car,CA,Mazda,6,Série B,68,0
+"2011 LANCER
+If the speed of life is measured in revolutions per minute, the 2011 Mitsubishi Lancer is ready to rev it up. Whatever you expect from a sport sedan, it's time to upgrade. The limit is about to be lifted.",82,2011,car,CA,Mitsubishi,3,Lancer,22,0
+"LUST AT FIRST SIGHT
+
+When was the last time you were excited by a practical hatchback? If you're looking at the Lancer Sportback, the answer is right now. With its sporty lines and muscular stance, “hatchback” is the last thing that's going to come to mind. But the first is easy. It's “how soon can I get behind the wheel”? And when you do, the standard Active Stability Control ensures you hug every curve.
+
+BURNS RUBBER NOT GAS
+
+Like all smart athletes, the Lancer Sportback has power to spare but knows how to maximize it to its fullest potential. Excellent fuel economy goes hand-in-hand with the available CVT (Continuous Variable Transmission) that continually adjusts its drive ratio for optimal performance. Mitsubishi's 2.0L DOHC 16 valve, 4-cylinder engine with MIVEC (Mitsubishi Innovative Valve-timing Electronic Control) capable of 148 HP and 145 lb.-ft. of torque also helps keep fuel consumption way down even as your adrenaline rush goes way up.
+
+THE REAL SURPRISE IS INSIDE
+
+A hot exterior with power to spare – there was a time when that would have been enough. Not anymore. Now you don't have to give up what you want for what you need. Like room? For a start, there's a handy 60/40-split rear seat useful for bigger cargo or gear. Need a little more room? Just lower the unique, adjustable cargo floor for even more extra flexibility. That's a total of 1,492L (52.7 cu. ft.) of available ""need",83,2011,car,CA,Mitsubishi,3,Lancer Sportback,23,0
+"DESIGNED FOR THE GO-GO-GO FAMILY 
+
+The 2011 Kia Sedona is the do-it-all minivan for families on the go. With spacious seating for seven and loads of cargo room, a full array of advanced safety features and more standard horsepower than ever before, Sedona has what it takes to keep up with your busy life.
+
+Fresh new front-end styling and a thoughtfully designed interior provide Sedona with an aura of elegance that belies its highly practical, family-friendly nature. Features like privacy glass, Bluetooth® hands-free cell phone connectivity1 and adjustable front and second-row armrests are standard on every model and they’re complemented with luxuries like available heated front seats and automatic temperature control for year-round comfort.
+
+When you’re ready to go Sedona is ready to take you – in comfort, style and safety.
+
+",84,2011,car,CA,Kia,1,Sedona,17,0
+"It's your life. It's your Soul. 
+
+The 2011 Soul is a fun loving, freewheeling vehicle with an unmistakable look and attitude, inside and out. With seating for five and some of the coolest interior features you’ve ever seen, Soul takes life’s party to street. And it comes loaded with things like heated front seats, power windows and door locks, Hands-Free Bluetooth® Cell Phone connectivity, electronic stability control and all kinds of other surprising features that you don’t have to pay extra for. Best of all, Soul is designed to be whatever you make it. With over 60 different Soul accessories, you can personalize it any way that suits your soul. 
+",85,2011,car,CA,Kia,1,Soul,12,0
+INNOVATION UNLEASHED. INNOVATION FOR ALL.,86,2011,car,CA,Nissan,2,Juke,212,0
+The 2011 Nissan Versa Hatchback.,87,2011,car,CA,Nissan,2,Versa,33,0
+"Expand your Expectation :
+
+The 2011 Endeavor continues to have a tall stature that provides a commanding view of the road. It still has the roomy cabin and generous cargo space that delivers all the comforts of an SUV. The only time you might be caught off guard is when shift it into gear and experience its smooth, sedan-like handling. Reignite your passion with the road.
+
+Commanding Performance :
+
+Hit the highway or head out of town, the Endeavor adapts to your adventure. Its sturdy unibody construction, All-Wheel-Drive and standard high-tech safety features-like 4-wheel disc brakes-keep you firmly in control. The 3.8L engine V6 engine, with 1,588kg of towing muscle, gives you the power to go anywhere and everywhere. 
+
+Stylish Comfort :
+
+Inside the Endeavor, your passengers enjoy loads of legroom, leather seating surfaces, and all the space they need (2,163-litres to be exact) to pack in their gear. The power sunroof is a nice touch too. There’s no question the rugged Endeavor is reliable. But with 17” alloy wheels, Bluetooth hands-free and the Rockford Acoustic Design 6-CD/MP3 audio system on tap, dependable has never looked or sounded so good.
+",88,2011,car,CA,Mitsubishi,3,Endeavor,28,0
+"Everything you would want in a sport utility vehicle, plus seven friends.
+
+From peaks to valleys, the Pilot’s available Variable Torque Management 4-wheel drive system (VTM-4®) and powerful 3.5-litre i-VTEC® engine make for an exceedingly smart and extremely capable SUV that is at home on any range. Plus, with the stronger, smoother, quieter ride that comes from the Pilot’s solid unit-body frame design and a long list of standard safety features, peace of mind abounds. And with comfortable seating for 8 and a towing capacity up to 2045 kg, you’ll discover it doesn’t have to be lonely at the top, unless you want it to be. 
+
+With 250 horsepower and 253 lb.-ft. of torque, you can add more action to your action-packed adventures. Under the hood, you’ll find an extremely muscular V-6 engine. For fast response and power when and where you need it, the groundbreaking 3.5-litre i-VTEC V-6 engine is the way to go. What’s more, with the capability of an electronic 5-speed automatic transmission with Grade Logic Control, you’ll always be in the perfect gear according to your tow-load or driving condition.
+",89,2011,car,CA,Honda,15,Pilot,222,0
+"""The new generation smart fortwo
+Open your eyes to something new: the new generation smart fortwo. A whole host of fresh colours – including the first ever matte finish, a third colour variant for the tridion safety cell and two new soft top colours for the cabriolet give you even greater scope for putting together your very own smart fortwo. The new exterior appearance package – with aprons and side skirts in the bodypanel colour – lends the new generation a colourful new look that exudes even higher quality. The striking LED daytime driving lights and four new alloy wheel designs round off the profile of the new smart fortwo. Needless to say, there’s a lot to discover on the inside as well. In the following section, you can read about all the exciting new features and packages of the new generation smart fortwo.""
+",90,2011,car,CA,smart,7,fortwo coupé,62,0
+"The new generation smart fortwo
+Open your eyes to something new: the new generation smart fortwo. A whole host of fresh colours – including the first ever matte finish, a third colour variant for the tridion safety cell and two new soft top colours for the cabriolet give you even greater scope for putting together your very own smart fortwo. The new exterior appearance package – with aprons and side skirts in the bodypanel colour – lends the new generation a colourful new look that exudes even higher quality. The striking LED daytime driving lights and four new alloy wheel designs round off the profile of the new smart fortwo. Needless to say, there’s a lot to discover on the inside as well. In the following section, you can read about all the exciting new features and packages of the new generation smart fortwo.",91,2011,car,CA,smart,7,fortwo cabriolet,64,0
+"Built for the road, or a lack thereof.
+
+There are many places worth visiting simply because they are off the beaten track. The 2011 ML-Class is sure to get you there in comfort and style.  
+
+Whether you’re heading through rough terrain or just facing difficult weather conditions, the ML-Class is ready to tackle whatever lies ahead.
+
+With all the features you’d need for off-road driving, it’s infinitely capable of handling the obstacles you’ll run across in the urban jungle. Be it potholes, construction or standing water, the ML-Class makes the hazards of city driving disappear.
+
+Its standard 7G-TRONIC 7-speed automatic transmission and 4MATIC permanent all-wheel drive with Electronic Traction System (4ETS) give you unparalleled control and ride comfort. Its robust engines ensure plenty of power. You’ll also appreciate the numerous inner refinements.
+",92,2011,car,CA,Mercedes-Benz,4,Classe M,225,0
+,93,2011,car,CA,Nissan,2,Murano,37,0
+"Relevage your sense of alive.
+Infiniti G Sedan. Performance and artistry you feel.",94,2011,car,CA,INFINITI,5,G Berline,226,0
+"More than a full-size SUV. A more fulfilling SUV.
+
+What drives us to create a vehicle with luxurious accommodations for seven, abundant towing power, and the wealth of performance, safety and innovation you expect from a Mercedes-Benz? 
+
+In a word, capacity. Beyond how much you can fit into it, how much you can get out of a vehicle reveals the engineering capacity of its creators. Only a full size SUV that’s been engineered by Mercedes-Benz can trace its lineage directly to the invention of the first car — and the first truck — well over a century ago. 
+
+The mission of the GL Class was therefore never just to be bigger in size, but larger in the scope of its character: Enormously protective of your family. Brimming with useful technology. And supremely confident, both on road and off. Full-size luxury is one way the 2011 GL Class measures up to your life. But it’s just one of its many dimensions.
+",95,2011,car,CA,Mercedes-Benz,4,GL,227,0
+,96,2011,car,CA,INFINITI,5,G Coupé,708,0
+,97,2011,car,CA,INFINITI,5,EX,711,0
+,98,2011,car,CA,INFINITI,5,FX,712,0
+"CANADA’S URBAN UTILITY VEHICLE :
+ 
+The 2011 Rondo is big on the inside, with room for up to seven. It’s also small enough to squeeze through traffic and into tight parking spaces without missing a beat. That’s why we call it Canada’s Urban Utility Vehicle. But Rondo goes far beyond utility. If you want V6 power, Rondo offers it without making you pay, big time, at the gas pump. If you want comfort that’s a cut above you’ll find it with available automatic climate control, heated front seats and an optional DVD entertainment system. All big-time features in a city-sized package. That’s the Kia Rondo: it lives big and drives small.
+
+",99,2011,car,CA,Kia,1,Rondo,15,0
+The Sentra SE-R.,100,2011,car,CA,Nissan,2,Sentra,34,0
+A study in excellence.,101,2011,car,CA,Nissan,2,Altima,35,0
+,103,2011,car,CA,Mazda,6,3,56,0
+"Welcome to the 2011 MAZDA3. The choice that tells the world you’re not the least bit willing to water down your convictions. One that says you’d sooner take a taxi than settle for a car that didn’t deliver real driving exhilaration.  And makes very clear your refusal to banish the word      « more » from your vocabulary. We understand. You see, we build car for people like you. Which is why we make sure that every car bearing the Mazda name is infused with innovative design, insightful engineering, spirited performance and impeccable craftsmanship. And why we always will. Zoom-Zoom. Forever.
+",104,2011,car,CA,Mazda,6,3 Sport,57,0
+Renew your love for the road.,105,2011,car,CA,Nissan,2,Maxima,36,0
+"IT’S A WHOLE NEW WAY TO MOVE.
+
+Find full-size attitude in the mid-size Frontier. With 261 HP and 4.0 L of muscle, you’ve got up to 6500 lbs. (2949 kg) of towing capacity. A fully boxed ladder frame teamed up advanced off-road technology means you’re virtually unstoppable. 
+
+With Crew Cab Long Bed, you’ve got room for five and a bed over 1860 mm (6 feet) long. 
+
+And with either King Cab or Crew Cab, you’ve got room to stretch out. Big where you want it, nimble and efficient where you need it, it’s a whole new way to move through the world. And you’re invited.   
+",106,2011,car,CA,Nissan,2,Frontier,40,0
+"IT’S A WHOLE NEW WAY TO MOVE.
+   
+The Nissan 370Z, a living legend. With the emphasis on living. Experience the adrenaline rush as 332 HP and 3.7 L of VVEL technology spins effortlessly to a 7500 rpm redline. Marvel as the world’s first SynchroRev Match manual transmission gives you a seamless downshift. 
+
+Bend into a corner and find the precision and balance that only comes from over 40 years of dedication to the pure joy of driving. A pulse-quickening Coupe.
+
+A Roadster that invites the element to play. It’s a whole new way to move through the world. And you’re invited.    
+",107,2011,car,CA,Nissan,2,370Z,45,0
+New Saab 9-5 Sedan. From darkness to light.,108,2011,car,CA,Saab,29,9-5,303,0
+"EXHILARATING PERFORMANCE IS ONLY HALF THE STORY
+
+Bring a little breathtaking design to the party, and suddenly the uninspiring world of versatility and practicality takes on a new flavour. Every thing about its beautiful sculpted, athletic design promises an exhilarating driving experience. And its impressive engineering doesn’t disappoint either. Propelling this Sport Crossover is a high-output 244-hp, 2.3 L engine that’s turbocharged, intercooled and direct-injected. Or opt for the advanced, fuel-friendly 2.5 L DOHC design.
+
+And standard stuff? Take a deep breath – you’ll need it to get through this list: A tilt/telescopic steering wheel. MP3-compatible audio. Trip computer. Multi-Information Display (MID). Privacy glass. Power windows, mirrors and door locks. Air conditioning. Steering-wheel mounted audio and cruise controls. Even Dynamic Stability Control (DSC) and a Traction Control system (TCS). 
+Plus, it handles your cargo with no styling compromises. Driving may seem like a chore in other crossovers. But with its sports-car-inspired driving dynamics, crisp handling and seductive styling, the CX-7 brings pure exhilaration to the entire crossover experience. Zoom-Zoom. Forever. 
+",109,2011,car,CA,Mazda,6,CX-7,61,0
+"They’re everywhere.  Cute little poser SUVs strutting around getting their tough on. But you’re not looking for cute. You want a genuine, versatile SUV that’s up for anything. With proven reliability, value and confident good looks. Served up with a full helping of Mazda-grade fun. You want the 2011 Mazda Tribute.
+
+With a choice of two powerful, fuel-stingy engines: A 2.5 L, DOHC 4-cylinder or a 240-hp, 3.0 L V6.  A 4-wheel independent suspension system, speed-sensing variable power assist and dual stabilizer bars. As well as an available bring-on-any-terrain Active Torque-Split All-Wheel Drive System (4WD). Drive the one SUV that refuses to compromise. The 2011 Mazda Tribute. Zoom-Zoom. Forever. 
+",110,2011,car,CA,Mazda,6,Tribute,67,0
+"One look is all it takes.
+
+It won’t take more than a single glance for the S-Class to mesmerize you.  Looking at it head on you’ll notice the imposing radiator grille. The headlamp design with Active Bi-Xenon headlamps and LED design ensures an unmistakable appearance, whether it’s day or night. Even the exterior mirrors with large lenses and eye-catching LED indicators designed to complement the stylishly sleek facade of this stunning vehicle body, deserve attention from onlookers.
+
+The rear of the S-Class has a noticeably wide bumper with integrated tailpipes – giving it the unmistakable look of power. The LED rear lighting, including LED lights illuminating the licence plate, emotes sheer confidence and presence on the road. Along with the exterior paint finishes and customizable wheel options, you can be certain that the S-Class will turn not only the heads of others, but yours as well, each time you walk away from this captivating example of Mercedes-Benz excellence.",111,2011,car,CA,Mercedes-Benz,4,Classe S Berline,323,0
+"A driving intelligence
+
+With precision combined with passion, the EX delivers a smart, playful and luxurious driving experience. The ever-changing landscape beneath your tires requires a never- wavering technology to keep you in control. Intelligent all-Wheel drive adapts to changing weather to provide traction when you need it. 
+
+Available Lane Departure Prevention helps keep you in the right lane by sensing drift and applying the brakes accordingly – so you return into your proper position. Superior handling provides the difference between responsive and an extraordinary drive.
+",112,2011,car,CA,INFINITI,5,EX35,50,0

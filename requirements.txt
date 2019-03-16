@@ -1,0 +1,7 @@
+dash==0.39.0
+plotly
+gunicorn
+numpy
+scipy
+pandas
+mysql-connector

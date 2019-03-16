@@ -1,0 +1,101 @@
+activity_id,activity_status,activity_status_id,activity_type,activity_type_id,automated,contact_id,date_created,date_done,date_last_modified,employee_id,lead_employee_id,lead_id,lead_status,lead_status_id,lead_type,lead_type_id
+42,N/A,5,Lead created,4,0,18,2011-05-15 17:30:05,2011-05-15 17:30:05,,75,0,17,New,1,Price Quote (new),1
+43,N/A,5,Lead created,4,0,19,2011-05-15 18:28:35,2011-05-15 18:28:35,,75,0,18,New,1,Price Quote (new),1
+49,N/A,5,Lead created,4,0,151571,2011-05-16 12:48:36,2011-05-16 12:48:36,,75,0,19,New,1,Price Quote (new),1
+63,N/A,5,Lead created,4,0,25,2011-05-16 13:41:18,2011-05-16 13:41:18,,75,0,22,New,1,Price Quote (new),1
+65,N/A,5,Lead created,4,0,164,2011-05-16 13:52:01,2011-05-16 13:52:01,,75,0,24,New,1,Price Quote (new),1
+68,N/A,5,Lead created,4,0,28,2011-05-16 14:08:49,2011-05-16 14:08:49,,75,0,25,New,1,Price Quote (new),1
+71,N/A,5,Lead created,4,0,29,2011-05-16 14:26:30,2011-05-16 14:26:30,,75,0,26,New,1,Price Quote (new),1
+80,N/A,5,Lead created,4,0,32,2011-05-16 15:57:58,2011-05-16 15:57:58,,75,0,29,New,1,Price Quote (new),1
+81,N/A,5,Employee assigned,5,0,17,2011-05-16 16:04:57,2011-05-16 16:04:57,,11,0,16,New,1,Price Quote (new),1
+82,N/A,5,Status changed,1,0,17,2011-05-16 16:04:57,2011-05-16 16:04:57,,11,0,16,New,1,Price Quote (new),1
+83,N/A,5,Employee assigned,5,0,18,2011-05-16 16:13:45,2011-05-16 16:13:45,,11,0,17,New,1,Price Quote (new),1
+84,N/A,5,Status changed,1,0,18,2011-05-16 16:13:45,2011-05-16 16:13:45,,11,0,17,New,1,Price Quote (new),1
+85,N/A,5,Employee assigned,5,0,19,2011-05-16 16:14:06,2011-05-16 16:14:06,,11,0,18,New,1,Price Quote (new),1
+86,N/A,5,Status changed,1,0,19,2011-05-16 16:14:06,2011-05-16 16:14:06,,11,0,18,New,1,Price Quote (new),1
+87,N/A,5,Employee assigned,5,0,151571,2011-05-16 16:14:28,2011-05-16 16:14:28,,11,0,19,New,1,Price Quote (new),1
+88,N/A,5,Status changed,1,0,151571,2011-05-16 16:14:28,2011-05-16 16:14:28,,11,0,19,New,1,Price Quote (new),1
+89,N/A,5,Employee assigned,5,0,151571,2011-05-16 16:15:17,2011-05-16 16:15:17,,11,0,19,New,1,Price Quote (new),1
+90,N/A,5,Status changed,1,0,151571,2011-05-16 16:15:17,2011-05-16 16:15:17,,11,0,19,New,1,Price Quote (new),1
+91,N/A,5,Employee assigned,5,0,25,2011-05-16 16:16:18,2011-05-16 16:16:18,,11,0,22,New,1,Price Quote (new),1
+92,N/A,5,Status changed,1,0,25,2011-05-16 16:16:18,2011-05-16 16:16:18,,11,0,22,New,1,Price Quote (new),1
+93,N/A,5,Employee assigned,5,0,164,2011-05-16 16:16:54,2011-05-16 16:16:54,,11,0,24,New,1,Price Quote (new),1
+94,N/A,5,Status changed,1,0,164,2011-05-16 16:16:54,2011-05-16 16:16:54,,11,0,24,New,1,Price Quote (new),1
+95,N/A,5,Employee assigned,5,0,28,2011-05-16 16:17:20,2011-05-16 16:17:20,,11,0,25,New,1,Price Quote (new),1
+96,N/A,5,Status changed,1,0,28,2011-05-16 16:17:20,2011-05-16 16:17:20,,11,0,25,New,1,Price Quote (new),1
+97,N/A,5,Employee assigned,5,0,29,2011-05-16 16:17:54,2011-05-16 16:17:54,,11,0,26,New,1,Price Quote (new),1
+98,N/A,5,Status changed,1,0,29,2011-05-16 16:17:54,2011-05-16 16:17:54,,11,0,26,New,1,Price Quote (new),1
+101,Completed,4,Phone,10,0,19,2011-05-16 16:38:03,2011-05-16 16:38:03,,6,0,18,New,1,Price Quote (new),1
+104,Completed,4,Phone,10,0,18,2011-05-16 16:51:28,2011-05-16 16:51:28,,6,0,17,New,1,Price Quote (new),1
+106,N/A,5,Lead created,4,0,33,2011-05-16 17:03:14,2011-05-16 17:03:14,,6,0,30,New,1,Price Quote (new),1
+107,Completed,4,Phone,10,0,17,2011-05-16 17:30:49,2011-05-16 17:30:49,,6,0,16,New,1,Price Quote (new),1
+109,Completed,4,Phone,10,0,29,2011-05-16 17:53:37,2011-05-16 17:53:37,,6,0,26,New,1,Price Quote (new),1
+111,N/A,5,Lead created,4,0,68875,2011-05-16 20:56:18,2011-05-16 20:56:18,,75,0,31,New,1,Price Quote (new),1
+117,N/A,5,Note,3,0,151571,2011-05-17 09:59:59,2011-05-17 09:59:59,,7,0,19,New,1,Price Quote (new),1
+118,N/A,5,Lead created,4,0,39,2011-05-17 12:52:09,2011-05-17 12:52:09,,6,0,33,New,1,Price Quote (new),1
+119,Completed,4,SMS sent,11,0,39,2011-05-17 12:53:04,2011-05-17 12:53:04,,6,0,33,New,1,Price Quote (new),1
+120,Completed,4,SMS sent,11,0,39,2011-05-17 12:54:58,2011-05-17 12:54:58,,6,0,33,New,1,Price Quote (new),1
+129,N/A,5,Lead created,4,0,41,2011-05-17 22:28:04,2011-05-17 22:28:04,,75,0,35,New,1,Price Quote (new),1
+135,N/A,5,Lead created,4,0,32,2011-05-18 14:06:23,2011-05-18 14:06:23,,75,0,36,New,1,Price Quote (new),1
+138,N/A,5,Lead created,4,0,23106,2011-05-18 14:17:28,2011-05-18 14:17:28,,75,0,37,New,1,Price Quote (new),1
+146,N/A,5,Event modified,12,0,18,2011-05-19 12:24:09,2011-05-19 12:24:09,,11,0,17,New,1,Price Quote (new),1
+147,N/A,5,Event modified,12,0,17,2011-05-19 12:24:23,2011-05-19 12:24:23,,11,0,16,New,1,Price Quote (new),1
+148,N/A,5,Event modified,12,0,19,2011-05-19 12:24:34,2011-05-19 12:24:34,,11,0,18,New,1,Price Quote (new),1
+150,N/A,5,Event modified,12,0,33,2011-05-19 12:25:30,2011-05-19 12:25:30,,11,0,30,New,1,Price Quote (new),1
+151,N/A,5,Status changed,1,0,32,2011-05-19 12:27:01,2011-05-19 12:27:01,,11,0,29,New,1,Price Quote (new),1
+152,N/A,5,Employee assigned,5,0,32,2011-05-19 12:27:46,2011-05-19 12:27:46,,11,0,29,New,1,Price Quote (new),1
+153,N/A,5,Status changed,1,0,32,2011-05-19 12:27:46,2011-05-19 12:27:46,,11,0,29,New,1,Price Quote (new),1
+154,N/A,5,Lead created,4,0,44,2011-05-19 12:55:07,2011-05-19 12:55:07,,75,0,38,New,1,Price Quote (new),1
+157,N/A,5,Lead created,4,0,45,2011-05-20 08:51:51,2011-05-20 08:51:51,,75,0,39,New,1,Price Quote (new),1
+164,N/A,5,Lead created,4,0,69363,2011-05-21 09:27:16,2011-05-21 09:27:16,,75,0,40,New,1,Price Quote (new),1
+167,N/A,5,Lead created,4,0,47,2011-05-21 09:51:16,2011-05-21 09:51:16,,75,0,41,New,1,Price Quote (new),1
+175,N/A,5,Lead created,4,0,68845,2011-05-21 21:31:13,2011-05-21 21:31:13,,75,0,43,New,1,Price Quote (new),1
+176,N/A,5,Lead created,4,0,50,2011-05-22 10:39:53,2011-05-22 10:39:53,,75,0,44,New,1,Price Quote (new),1
+180,N/A,5,Lead created,4,0,52,2011-05-24 07:12:59,2011-05-24 07:12:59,,75,0,46,New,1,Price Quote (new),1
+182,N/A,5,Employee assigned,5,0,52,2011-05-24 09:50:48,2011-05-24 09:50:48,,6,0,46,New,1,Price Quote (new),1
+183,N/A,5,Status changed,1,0,52,2011-05-24 09:50:48,2011-05-24 09:50:48,,6,0,46,New,1,Price Quote (new),1
+189,N/A,5,Lead created,4,0,55,2011-05-24 16:53:56,2011-05-24 16:53:56,,75,0,49,New,1,Price Quote (new),1
+195,N/A,5,Lead created,4,0,136138,2011-05-24 19:21:21,2011-05-24 19:21:21,,75,0,51,New,1,Price Quote (new),1
+198,N/A,5,Lead created,4,0,58,2011-05-24 21:44:49,2011-05-24 21:44:49,,75,0,52,New,1,Price Quote (new),1
+199,N/A,5,Lead created,4,0,59,2011-05-25 08:52:40,2011-05-25 08:52:40,,75,0,53,New,1,Price Quote (new),1
+201,N/A,5,Lead created,4,0,60,2011-05-25 09:22:55,2011-05-25 09:22:55,,75,0,54,New,1,Price Quote (new),1
+203,N/A,5,Employee assigned,5,0,60,2011-05-25 10:18:27,2011-05-25 10:18:27,,6,0,54,New,1,Price Quote (new),1
+204,N/A,5,Status changed,1,0,60,2011-05-25 10:18:28,2011-05-25 10:18:28,,6,0,54,New,1,Price Quote (new),1
+205,Completed,4,Phone,10,0,60,2011-05-25 10:19:05,2011-05-25 10:19:05,,6,0,54,New,1,Price Quote (new),1
+207,N/A,5,Employee assigned,5,0,60,2011-05-25 10:25:00,2011-05-25 10:25:00,,6,0,54,New,1,Price Quote (new),1
+208,N/A,5,Status changed,1,0,60,2011-05-25 10:25:00,2011-05-25 10:25:00,,6,0,54,New,1,Price Quote (new),1
+209,N/A,5,Employee assigned,5,0,59,2011-05-25 10:26:10,2011-05-25 10:26:10,,6,0,53,New,1,Price Quote (new),1
+210,N/A,5,Status changed,1,0,59,2011-05-25 10:26:10,2011-05-25 10:26:10,,6,0,53,New,1,Price Quote (new),1
+211,Completed,4,Phone,10,0,59,2011-05-25 10:27:22,2011-05-25 10:27:22,,6,0,53,New,1,Price Quote (new),1
+213,N/A,5,Employee assigned,5,0,58,2011-05-25 10:28:42,2011-05-25 10:28:42,,6,0,52,New,1,Price Quote (new),1
+214,N/A,5,Status changed,1,0,58,2011-05-25 10:28:42,2011-05-25 10:28:42,,6,0,52,New,1,Price Quote (new),1
+215,Completed,4,Phone,10,0,58,2011-05-25 10:29:27,2011-05-25 10:29:27,,6,0,52,New,1,Price Quote (new),1
+217,N/A,5,Event modified,12,0,59,2011-05-25 11:02:27,2011-05-25 11:02:27,,6,0,53,New,1,Price Quote (new),1
+218,N/A,5,Event modified,12,0,19,2011-05-25 11:07:35,2011-05-25 11:07:35,,76,0,18,New,1,Price Quote (new),1
+219,N/A,5,Event modified,12,0,19,2011-05-25 11:07:50,2011-05-25 11:07:50,,76,0,18,New,1,Price Quote (new),1
+227,N/A,5,Lead created,4,0,62,2011-05-25 14:31:12,2011-05-25 14:31:12,,75,0,56,New,1,Price Quote (new),1
+230,N/A,5,Lead created,4,0,217044,2011-05-25 15:15:10,2011-05-25 15:15:10,,75,0,58,New,1,Price Quote (new),1
+231,N/A,5,Employee assigned,5,0,217044,2011-05-25 15:18:56,2011-05-25 15:18:56,,76,0,58,New,1,Price Quote (new),1
+232,N/A,5,Status changed,1,0,217044,2011-05-25 15:18:56,2011-05-25 15:18:56,,76,0,58,New,1,Price Quote (new),1
+233,N/A,5,Employee assigned,5,0,217044,2011-05-25 15:20:38,2011-05-25 15:20:38,,76,0,58,New,1,Price Quote (new),1
+234,N/A,5,Status changed,1,0,217044,2011-05-25 15:20:38,2011-05-25 15:20:38,,76,0,58,New,1,Price Quote (new),1
+235,N/A,5,Employee assigned,5,0,217044,2011-05-25 15:20:54,2011-05-25 15:20:54,,76,0,58,New,1,Price Quote (new),1
+236,N/A,5,Status changed,1,0,217044,2011-05-25 15:20:54,2011-05-25 15:20:54,,76,0,58,New,1,Price Quote (new),1
+243,N/A,5,Lead created,4,0,68868,2011-05-25 21:06:40,2011-05-25 21:06:40,,75,0,59,New,1,Price Quote (new),1
+245,N/A,5,Employee assigned,5,0,68868,2011-05-26 11:07:14,2011-05-26 11:07:14,,11,0,59,New,1,Price Quote (new),1
+246,N/A,5,Status changed,1,0,68868,2011-05-26 11:07:15,2011-05-26 11:07:15,,11,0,59,New,1,Price Quote (new),1
+247,N/A,5,Status changed,1,0,58,2011-05-26 11:12:49,2011-05-26 11:12:49,,11,0,52,New,1,Price Quote (new),1
+256,N/A,5,Status changed,1,0,44,2011-05-26 11:23:31,2011-05-26 11:23:31,,11,0,38,New,1,Price Quote (new),1
+257,N/A,5,Note,3,0,44,2011-05-26 11:23:51,2011-05-26 11:23:51,,11,0,38,New,1,Price Quote (new),1
+258,N/A,5,Note,3,0,44,2011-05-26 11:24:02,2011-05-26 11:24:02,,11,0,38,New,1,Price Quote (new),1
+259,N/A,5,Employee assigned,5,0,69363,2011-05-26 11:26:37,2011-05-26 11:26:37,,11,0,40,New,1,Price Quote (new),1
+260,N/A,5,Status changed,1,0,69363,2011-05-26 11:26:37,2011-05-26 11:26:37,,11,0,40,New,1,Price Quote (new),1
+261,N/A,5,Note,3,0,69363,2011-05-26 11:27:10,2011-05-26 11:27:10,,11,0,40,New,1,Price Quote (new),1
+262,N/A,5,Note,3,0,69363,2011-05-26 11:29:25,2011-05-26 11:29:25,,11,0,40,New,1,Price Quote (new),1
+263,N/A,5,Lead created,4,0,66,2011-05-26 12:00:37,2011-05-26 12:00:37,,75,0,60,New,1,Price Quote (new),1
+267,N/A,5,Employee assigned,5,0,50,2011-05-26 12:07:58,2011-05-26 12:07:58,,11,0,44,New,1,Price Quote (new),1
+268,N/A,5,Status changed,1,0,50,2011-05-26 12:07:58,2011-05-26 12:07:58,,11,0,44,New,1,Price Quote (new),1
+269,N/A,5,Note,3,0,50,2011-05-26 12:08:23,2011-05-26 12:08:23,,11,0,44,New,1,Price Quote (new),1
+271,N/A,5,Status changed,1,0,47,2011-05-26 13:05:50,2011-05-26 13:05:50,,11,0,41,New,1,Price Quote (new),1
+272,N/A,5,Employee assigned,5,0,47,2011-05-26 13:05:58,2011-05-26 13:05:58,,11,0,41,New,1,Price Quote (new),1
+273,N/A,5,Status changed,1,0,47,2011-05-26 13:05:58,2011-05-26 13:05:58,,11,0,41,New,1,Price Quote (new),1
